@@ -13,3 +13,4 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
+![Snake animation](https://github.com/bryan-growdev/bryan-growdev/blob/output/github-contribution-grid-snake.svg)
