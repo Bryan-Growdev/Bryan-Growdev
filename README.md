@@ -1,9 +1,8 @@
 ### Hello World! Meu nome é Bryan Feiten 👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/BryanFeiten)
-
-![Bryan Feiten's Stats](https://github-readme-stats.vercel.app/api?username=bryan-growdev&show_icons=true&theme=github_dark)
   
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bryan-growdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 <br/>
 
 ### Principais Tecnologias que uso no Trabalho
