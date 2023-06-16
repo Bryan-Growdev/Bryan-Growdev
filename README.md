@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/BryanFeiten)
   
-<a href="https://github.com/bryan-growdev/bryan-growdev"><img alt="bryan-growdev's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=bryan-growdev&show_icons=true&include_all_commits=true&show_total_reviews=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&" height="192px"/></a>
+<a href="https://github.com/bryan-growdev/bryan-growdev"><img alt="bryan-growdev's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=bryan-growdev&show_icons=true&include_all_commits=true&show_total_reviews=true&count_private=true&theme=dark&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&" height="192px"/></a>
 
 <br/>
 
